@@ -1,0 +1,23 @@
+#cover {
+    background-image: url('https://via.placeholder.com/1200x600'); /* Online image placeholder */
+    background-size: cover;
+    height: 100vh;
+  }
+  
+  #sidebar {
+    background-color: #e9ecef;
+    height: 100%;
+    padding: 20px;
+  }
+  
+  #gallery {
+    background-color: #fff;
+    padding: 20px;
+    margin-top: 20px;
+  }
+  
+  #article {
+    background-color: #fff;
+    padding: 20px;
+    margin-top: 20px;
+  }
